@@ -54,7 +54,7 @@ For any inquiries or collaboration opportunities, feel free to contact me via em
 
 ![readmegenerator](https://github.com/abduelamin/README-Generator/assets/149680577/a12bfd7f-f884-462e-82fc-4a4c9c6d92a6)
 
-Video showcasing How to use this application: https://app.screencastify.com/v3/watch/hq1ANGjoT4qhQAlNmBpG
+Video showcasing How to use this application: https://youtu.be/TV3VDqo_2oM
 
 ## Known Issues
 
